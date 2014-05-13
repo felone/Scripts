@@ -1,3 +1,12 @@
+/* insertar en el head 
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+    
+  HTML
+  
+  <div id="map-canvas"></div>
+*/
+
+
 
 var map;  
 function initialize() {
