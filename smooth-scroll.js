@@ -1,12 +1,14 @@
 /* =============================================================
-
+	https://github.com/cferdinandi/smooth-scroll#readme
+	
+	
 	Se debe insertar este codigo al final del documento
-
-
 	<script>
             smoothScroll.init();
-    </script>
-
+	 </script>
+	
+	
+	y a las etiquetas <a> agregar data-scroll
  * ============================================================= */
 
 window.smoothScroll = (function (window, document, undefined) {
